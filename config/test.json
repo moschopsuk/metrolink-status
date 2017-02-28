@@ -1,0 +1,45 @@
+{
+  "port": 3001,
+  "mongodb": "localhost:32768/test",
+  "api": {
+    "tfgm": "http://test.com/api"
+  },
+  "tramLines" : [
+    {
+      "id": 1,
+      "name": "Altrincham"
+    },
+    {
+      "id": 2,
+      "name": "Ashton-under-Lyne"
+    },
+    {
+      "id": 3,
+      "name": "Bury"
+    },
+    {
+      "id": 4,
+      "name": "East Didsbury"
+    },
+    {
+      "id": 5,
+      "name": "Eccles via MediaCityUK"
+    },
+    {
+      "id": 6,
+      "name": "Manchester Airport"
+    },
+    {
+      "id": 7,
+      "name": "MediaCityUK"
+    },
+    {
+      "id": 8,
+      "name": "Rochdale via Oldham"
+    },
+    {
+      "id": 9,
+      "name": "City Zone"
+    }
+  ]
+}
